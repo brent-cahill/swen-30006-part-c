@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jorbis-0.0.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-platform-2.9.2-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jlayer-1.0.1-gdx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jinput-platform-2.0.5-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jinput-platform-2.0.5-natives-osx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdx-backend-lwjgl-1.9.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-platform-2.9.2-natives-osx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdx-platform-1.9.8-natives-desktop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl_util-2.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jinput-2.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-2.9.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-platform-2.9.2-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gdx-1.9.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jutils-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jinput-platform-2.0.5-natives-linux.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/gdx-1.9.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
